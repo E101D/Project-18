@@ -120,7 +120,7 @@ function fruits(){
   //Increase the velocity of fruit after score 4 
 
       // fruit.velocityX= (7+(score/4));
-       fruit.velocityY= (7+(score));
+       fruit.velocityX= (7+(score));
       // fruit.velocity= (7+(score/4));
       // fruit.velocityX= (7);
      
